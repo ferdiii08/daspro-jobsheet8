@@ -9,7 +9,7 @@ public class Rectangle14 {
 
         for (int i = 1; i <= baris; i++) {          // outer loop: baris
             for (int j = 1; j <= kolom; j++) {      // inner loop: kolom
-                System.out.print("*");              // soal 5: karakter diganti #
+                System.out.print("#");              // soal 5: karakter diganti #
             }
             System.out.println();                   // pindah baris
         }
